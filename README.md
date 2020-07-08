@@ -13,5 +13,5 @@ https://www.andygibson.net/blog/quickbyte/jstl-missing-from-maven-repositories/
 
 
 
-#If spring actuator endpints are not working we need to add like below /actuator/metrics in recent update as of 08/07/2020 it is working
+##If spring actuator endpints are not working we need to add like below /actuator/metrics in recent update as of 08/07/2020 it is working
 http://localhost:8090/actuator/metrics
